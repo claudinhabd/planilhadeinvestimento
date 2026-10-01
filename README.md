@@ -9,8 +9,8 @@ Planilha com cara de aplicativo que simula investimentos em fundos imobiliários
 **Perfil Moderado**
 ![Perfil moderado](prints/perfil-moderado.png)
 
-**Perfil [Conservador/Arrojado]** (mesma simulação)
-![Outro perfil](prints/perfil-[nome].png)
+**Perfil Conservador**
+![Perfil conservador](prints/perfil-conservador.png)
 
 ## Perguntas que a ferramenta responde
 
